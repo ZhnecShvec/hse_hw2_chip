@@ -1,12 +1,12 @@
 # hse_hw2_chip
 
-[Ссылка на коллаб](data/HW2_chip.ipynb)
+[Ссылка на коллаб](HW2_chip.ipynb)
 
 Для исследования была выбрана клеточная линия BLaER1 и гистоновая метка H3K27ac.
 
 ## Анализ FastQC
 
-HTML-выдача FastQC лежит в data
+HTML-выдача FastQC лежит в основной папке репозитория.
 
 ## Таблица со статистикой по выравниванию на 16 хромосому
 ![Capture](https://user-images.githubusercontent.com/77488037/223223218-69e7a92a-e3b6-4738-a20a-37a4f0ffdc99.PNG)
